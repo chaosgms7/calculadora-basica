@@ -20,10 +20,7 @@ int main(){
 }	else if (operacao == '/'){
 		resultado = numero1 / numero2;
 		
-}	
-
-			
-	
+}		
 	printf("O resultado da operacao eh %.2f",resultado);
 
 	return 0;
